@@ -14,6 +14,7 @@ Free tools for anyone who runs Koha, published under the [Koha Solutions organis
 | Tool | What it does |
 |---|---|
 | [koha-sql-reports](https://github.com/kohasolutions/koha-sql-reports) | Ready-to-use SQL reports for Koha (circulation, collection, patrons, holds, money), each run through Koha's own report engine before every release. The test log is attached to each [release](https://github.com/kohasolutions/koha-sql-reports/releases). |
+| [koha-backup](https://github.com/kohasolutions/koha-backup) | Scheduled `koha-dump` backups that keep N copies, test a restore every month, and copy encrypted archives off the server. Restore round trip checked on a real Koha before every release; the log is on each [release](https://github.com/kohasolutions/koha-backup/releases). |
 
 More are on the way; the organisation page lists them as they are released.
 
