@@ -15,6 +15,7 @@ Free tools for anyone who runs Koha, published under the [Koha Solutions organis
 |---|---|
 | [koha-sql-reports](https://github.com/kohasolutions/koha-sql-reports) | Ready-to-use SQL reports for Koha (circulation, collection, patrons, holds, money), each run through Koha's own report engine before every release. The test log is attached to each [release](https://github.com/kohasolutions/koha-sql-reports/releases). |
 | [koha-backup](https://github.com/kohasolutions/koha-backup) | Scheduled `koha-dump` backups that keep N copies, test a restore every month, and copy encrypted archives off the server. Restore round trip checked on a real Koha before every release; the log is on each [release](https://github.com/kohasolutions/koha-backup/releases). |
+| [koha-notice-templates](https://github.com/kohasolutions/koha-notice-templates) | 18 clean, mobile-friendly Koha notices (overdue, hold, checkout, welcome…) in email, SMS and print. Each one is run through a real Koha checkout, return or cron script before every release; the log is on each [release](https://github.com/kohasolutions/koha-notice-templates/releases). |
 
 More are on the way; the organisation page lists them as they are released.
 
